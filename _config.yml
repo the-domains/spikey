@@ -1,0 +1,14 @@
+layout_spectrum: 0.6925661037676036
+typography_spectrum: 0.051517653511837125
+color:
+  brandStrength: 0.9820513629820198
+  lightness: 0.2026746787596494
+  saturation: 0.36045732186175883
+  rhythmicContrast: 0.8451247774064541
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: Spikey
